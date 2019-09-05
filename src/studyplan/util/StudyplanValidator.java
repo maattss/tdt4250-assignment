@@ -195,10 +195,7 @@ public class StudyplanValidator extends EObjectValidator {
 	 * @NOT generated
 	 */
 	public boolean validateCourse_min5Credits(Course course, DiagnosticChain diagnostics, Map<Object, Object> context) {
-		// TODO implement the constraint
-		// -> specify the condition that violates the constraint
-		// -> verify the diagnostic details, including severity, code, and message
-		// Ensure that you remove @generated or mark it @generated NOT
+		// Ensures all courses is at least worth 5 credits
 		if (course.getCredits() < 5) {
 			if (diagnostics != null) {
 				diagnostics.add
