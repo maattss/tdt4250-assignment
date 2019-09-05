@@ -17,18 +17,18 @@ The Sample.xmi file includes an example of a studyprogram with a specialization,
 - Program: 2 year Msc Computer Science
   - Specialization: Software Development
     - Semester: Semester 1
-      - SemesterCourse: ELECTIVE
+      - SemesterCourse: *ELECTIVE*
         - Course: Advanced Software Design
-      - SemesterCourse: ELECTIVE
+      - SemesterCourse: *ELECTIVE*
         - Course: Graphical User Interface
-      - SemesterCourse: MANDATORY
+      - SemesterCourse: *MANDATORY*
         - Course: Introduction to Artificial Intelligence
-      - SemesterCourse: MANDATORY
+      - SemesterCourse: *MANDATORY*
         - Course: Information Systems
     - Semester: Semester 2
-      - SemesterCourse: ELECTIVE
+      - SemesterCourse: *ELECTIVE*
         - Course: Information Security
-      - SemesterCourse: ELECTIVE
+      - SemesterCourse: *ELECTIVE*
         - Course: Advanced Software Enginering
-      - SemesterCourse: ELECTIVE
+      - SemesterCourse: *ELECTIVE*
         - Course: Software Architecture
