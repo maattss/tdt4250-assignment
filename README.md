@@ -1,7 +1,7 @@
 # TDT4250 - Advanced Software Engineering - Assignment 1
 ## Content
-Case description, study plan with semesters, courses and groups of courses to select among for electives.
-A program includes multilpe semesters with optional specializations (single or multiple).
+Study plan (program) with semesters, courses and specializations.
+A program includes multiple semesters with optional specializations (single or multiple).
 Every courses included in a semester can be mandatory or elective.
 
 ## Constraints
