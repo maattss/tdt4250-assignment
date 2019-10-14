@@ -16,7 +16,7 @@ Every courses included in a semester can be mandatory or elective.
 ![plant UML model](https://i.imgur.com/2qp510p.png)
 
 ## Sample
-
+**Sample.xmi updated for assignment 3** 
 The Sample.xmi file includes an example of a studyprogram with a specialization, 2 semesters and 7 courses. Some of the courses are mandatory and some are elective.
 
 - Program: 2 year Msc Computer Science
